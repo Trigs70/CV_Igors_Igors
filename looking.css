@@ -1,0 +1,88 @@
+
+   .div5 .looking {
+    background-color: #F2EDEB;
+    color: #62666B; }
+     .div5 .looking p {
+      margin-bottom: 5rem; }
+       .clients .content .content-row .content-column {
+      padding: 0; }
+       .clients .content .content-row .content-column:last-child {
+      margin-bottom: 0;
+      padding-left: 8.3333%; }
+      @media only screen and (max-width: 863px) {
+        .div5 .looking {
+          padding: 0; } }
+          #CV .div5 .looking .artifact__wrapper {
+      position: absolute;
+      bottom: 10px; }
+       .div5 .looking .artifact__wrapper .artifact {
+        width: 88px; }
+         .div5 .looking .client-list {
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: space-between; }
+      .div5 .looking {
+        flex: 0 0 45%; }
+        div5 .looking {
+          width: 100%;
+          max-width: none; }
+      @media only screen and (max-width: 639px) {
+         .clients .client-list {
+          margin: 0 -1rem; }
+           .clients .client-list .client {
+            flex: 0 0 50%; } }
+             .clients.watch .client-list .client {
+      opacity: 0;
+      transitilients.watch.entered .client-list .client {
+        opacity: 1; }}
+
+.looking p{
+  color: #62666B;
+}
+
+.div5 .looking h2 {
+  position: absolute;
+  top: 40px;
+}
+
+/* @media only screen and (max-width: 1400px){
+  .div5 {
+    height: 60vw;
+  }
+} */
+@media only screen and (max-width: 1200px){
+  .div5 {
+    height: 70vw;
+  }
+}
+@media only screen and (max-width: 992px){
+  .div5 {
+    height: 80vw;
+  }
+}
+@media only screen and (max-width: 863px){
+  .div5 {
+    height: 90vw;
+  }
+}
+@media only screen and (max-width: 639px){
+  .div5{
+    height: 100vw;
+  }
+}    
+@media only screen and (max-width: 576px){
+  .div5 {
+    height: 110vw;
+  }
+}
+@media only screen and (max-width: 476px){
+  .div5 {
+    height: 190vw;
+  }
+}                  
+@media only screen and (max-width: 320px){
+  .div5 {
+    height: 200vw;
+  }
+}  
+  

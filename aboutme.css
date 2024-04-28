@@ -1,0 +1,102 @@
+#CV .aboutme .artifact {
+    width: 55px;
+    position: absolute;
+    top: 45px;
+    left: 220px;
+    color: #FFADA6; }
+
+@media only screen and (max-width: 1200px) {
+    #CV .aboutme .artifact {
+        width: 35px;
+        top: 0px;
+        left: 0px; } }
+
+#CV .aboutme .aboutme-align{
+    position: absolute;
+    left: 300px;
+    bottom: 200px;
+}
+@media only screen and (max-width: 1200px){
+    #CV .aboutme .aboutme-align
+    {
+    position: absolute;
+    top: 100px;
+    left: 100px;
+    width: 200px;
+      }
+     }
+
+#CV .aboutme{
+    display: inline-block;
+    color: #405756;
+}
+
+#CV .aboutme h2{
+    position: absolute;
+    left: 300px;
+    top: 45px;
+} 
+#CV .aboutme .foto div {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+@media only screen and (max-width: 1200px){
+    #CV .aboutme h2
+    {
+    position: absolute;
+    left: 100px;
+    top: 30px;
+    width: 300px;
+    }
+    }
+
+@media only screen and (max-width: 1200px){
+    #CV .aboutme p
+    {
+    /* position: relative; */
+    left: 700px;
+    width: 200px;
+    top: 900px; }
+    }
+
+#CV .aboutme .foto {
+    position: absolute;
+    right: 230px;
+    top: 350px;}
+
+@media only screen and (max-width: 1300px){
+    #CV .aboutme .foto{
+        position: absolute;
+        right: 140px;
+        top: 280px;}}
+          
+@media only screen and (max-width: 992px){
+    #CV .aboutme .foto {
+        position: absolute;
+        right: 130px;
+        top: 240px;
+    }}
+          
+          @media only screen and (max-width: 863px){
+            .div4 {
+              height: 90vw;}}
+          
+          @media only screen and (max-width: 639px){
+            .div4 {
+              height: 100vw;}} 
+          
+          @media only screen and (max-width: 576px){
+            .div4 {
+              height: 110vw;}}
+          
+          @media only screen and (max-width: 476px){
+            .div4 {
+              height: 190vw;}} 
+          
+          @media only screen and (max-width: 320px){
+            .div4 {
+              height: 200vw;}}  
+
+
+ 
